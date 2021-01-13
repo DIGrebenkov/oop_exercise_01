@@ -1,0 +1,79 @@
+0. Print menu.
+1. Enter the data of the first budget.
+2. Enter the data of the second budget.
+3. Print the data of the first and second budgets.
+4. Addition of the first and second budgets.
+5. Subtract the second budget from the first.
+6. Multiply the first budget by number.
+7. Divide first budget by number.
+8. Compare the first budget with the second.
+9. Quit the program.
+Choose option:
+1
+Enter own part of the budget: 4.449
+Enter borrowed part of the budget: 3.313
+Choose option:
+2
+Enter own part of the budget: 5
+Enter borrowed part of the budget: 1
+Choose option:
+3
+(4.45, 3.31).
+(5, 1).
+Choose option:
+4
+(9.45, 4.31).
+Choose option:
+5
+Error: budget cannot be negative.
+Choose option:
+2
+Enter own part of the budget: 2
+Enter borrowed part of the budget: 1.31
+Choose option:
+3
+(4.45, 3.31).
+(2, 1.31).
+Choose option:
+5
+(2.45, 2).
+Choose option:
+1
+Enter own part of the budget: 2
+Enter borrowed part of the budget: 3
+Choose option:
+6
+Enter multiplier: 2
+(4, 6).
+Choose option:
+7
+Enter divider: 2
+(1, 1.5).
+Choose option:
+7
+Enter divider: 0
+Error: division by zero.
+Choose option:
+1
+Enter own part of the budget: 2
+Enter borrowed part of the budget: 3
+Choose option:
+2
+Enter own part of the budget: 2
+Enter borrowed part of the budget: 2
+Choose option:
+8
+Budgets are not equal.
+Choose option:
+1
+Enter own part of the budget: 0
+Enter borrowed part of the budget: 2
+Choose option:
+2
+Enter own part of the budget: 0
+Enter borrowed part of the budget: 2
+Choose option:
+8
+Budgets are equal.
+Choose option:
+9

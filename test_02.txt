@@ -1,0 +1,78 @@
+0. Print menu.
+1. Enter the data of the first budget.
+2. Enter the data of the second budget.
+3. Print the data of the first and second budgets.
+4. Addition of the first and second budgets.
+5. Subtract the second budget from the first.
+6. Multiply the first budget by number.
+7. Divide first budget by number.
+8. Compare the first budget with the second.
+9. Quit the program.
+Choose option:
+1
+Enter own part of the budget: -5
+Error: budget cannot be negative.
+Choose option:
+2
+Enter own part of the budget: 8
+Enter borrowed part of the budget: -5.9
+Error: budget cannot be negative.
+Choose option:
+3
+Error: no first budget data entered.
+Error: no second budget data entered.
+Choose option:
+4
+Error: no first budget data entered.
+Error: no second budget data entered.
+Choose option:
+5
+Error: no first budget data entered.
+Error: no second budget data entered.
+Choose option:
+6
+Error: no first budget data entered.
+Choose option:
+7
+Error: no first budget data entered.
+Choose option:
+8
+Error: no first budget data entered.
+Error: no second budget data entered.
+Choose option:
+0
+0. Print menu.
+1. Enter the data of the first budget.
+2. Enter the data of the second budget.
+3. Print the data of the first and second budgets.
+4. Addition of the first and second budgets.
+5. Subtract the second budget from the first.
+6. Multiply the first budget by number.
+7. Divide first budget by number.
+8. Compare the first budget with the second.
+9. Quit the program.
+Choose option:
+1
+Enter own part of the budget: 0
+Enter borrowed part of the budget: 1
+Choose option:
+1
+Enter own part of the budget: 0
+Enter borrowed part of the budget: 1
+Choose option:
+2
+Enter own part of the budget: 2
+Enter borrowed part of the budget: 2
+Choose option:
+3
+(0, 1).
+(2, 2).
+Choose option:
+7
+Enter divider: 0
+Error: division by zero.
+Choose option:
+5
+Error: budget cannot be negative.
+Choose option:
+9
